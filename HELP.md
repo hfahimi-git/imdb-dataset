@@ -24,4 +24,5 @@ After running the application, an embedded web container will launch, and we wil
 1. http://localhost:8080/imdb/titles-with-same-alive-director-writer?page=1
 2. http://localhost:8080/imdb/titles-with-actors?actor1=Robert%20De%20Niro&actor2=Al%20Pacino
 3. http://localhost:8080/imdb/stat
-4. Number 4 in Technical Section is not implemented
+4. Number 4 that mentioned in **Technical Section** is not implemented
+5. After download and extract datasets, copy name.basics.tsv, title.basics.tsv, title.crew.tsv and title.principals.tsv files to src/main/resource folder
